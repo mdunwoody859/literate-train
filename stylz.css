@@ -19,9 +19,6 @@ h3 {
     font-size: 18pt;
     color: lime;
 }
-
-#id00001 {
-    font-family: Arial;
-    color: greenyellow;
-    font-size: 26pt;
+body {
+    background-image: url("http://www.allwhitebackground.com/images/2/2274.jpg");
 }
